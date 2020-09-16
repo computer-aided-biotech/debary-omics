@@ -1,2 +1,3 @@
-* run PCA on feature counts
+* solve issue with KCl3
+* Make plot more final
 * analysis of proteomics data

@@ -1,0 +1,121 @@
+id,name
+dha00010,glycolysis/gluconeogenesis
+dha00020,citrate cycle (TCA cycle)
+dha00030,pentose phosphate pathway
+dha00040,pentose and glucuronate interconversions
+dha00051,fructose and mannose metabolism
+dha00052,galactose metabolism
+dha00053,ascorbate and aldarate metabolism
+dha00061,fatty acid biosynthesis
+dha00062,fatty acid elongation
+dha00071,fatty acid degradation
+dha00072,synthesis and degradation of ketone bodies
+dha00100,steroid biosynthesis
+dha00130,ubiquinone and other terpenoid-quinone biosynthesis
+dha00190,oxidative phosphorylation
+dha00220,arginine biosynthesis
+dha00230,purine metabolism
+dha00240,pyrimidine metabolism
+dha00250,"alanine, aspartate and glutamate metabolism"
+dha00260,"glycine, serine and threonine metabolism"
+dha00261,monobactam biosynthesis
+dha00270,cysteine and methionine metabolism
+dha00280,"valine, leucine and isoleucine degradation"
+dha00290,"valine, leucine and isoleucine biosynthesis"
+dha00300,lysine biosynthesis
+dha00310,lysine degradation
+dha00330,arginine and proline metabolism
+dha00332,carbapenem biosynthesis
+dha00340,histidine metabolism
+dha00350,tyrosine metabolism
+dha00360,phenylalanine metabolism
+dha00380,tryptophan metabolism
+dha00400,"phenylalanine, tyrosine and tryptophan biosynthesis"
+dha00410,beta-Alanine metabolism
+dha00430,taurine and hypotaurine metabolism
+dha00440,phosphonate and phosphinate metabolism
+dha00450,selenocompound metabolism
+dha00460,cyanoamino acid metabolism
+dha00472,D-Arginine and D-ornithine metabolism
+dha00480,glutathione metabolism
+dha00500,starch and sucrose metabolism
+dha00510,N-Glycan biosynthesis
+dha00511,other glycan degradation
+dha00513,various types of N-glycan biosynthesis
+dha00514,other types of O-glycan biosynthesis
+dha00515,mannose type O-glycan biosynthesis
+dha00520,amino sugar and nucleotide sugar metabolism
+dha00531,glycosaminoglycan degradation
+dha00561,glycerolipid metabolism
+dha00562,inositol phosphate metabolism
+dha00563,glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+dha00564,glycerophospholipid metabolism
+dha00565,ether lipid metabolism
+dha00590,arachidonic acid metabolism
+dha00592,alpha-linolenic acid metabolism
+dha00600,sphingolipid metabolism
+dha00603,glycosphingolipid biosynthesis - globo and isoglobo series
+dha00604,glycosphingolipid biosynthesis - ganglio series
+dha00620,pyruvate metabolism
+dha00630,glyoxylate and dicarboxylate metabolism
+dha00640,propanoate metabolism
+dha00650,butanoate metabolism
+dha00660,C5-branched dibasic acid metabolism
+dha00670,one carbon pool by folate
+dha00680,methane metabolism
+dha00730,thiamine metabolism
+dha00740,riboflavin metabolism
+dha00750,vitamin B6 metabolism
+dha00760,nicotinate and nicotinamide metabolism
+dha00770,pantothenate and CoA biosynthesis
+dha00780,biotin metabolism
+dha00785,lipoic acid metabolism
+dha00790,folate biosynthesis
+dha00791,atrazine degradation
+dha00860,porphyrin and chlorophyll metabolism
+dha00900,terpenoid backbone biosynthesis
+dha00909,sesquiterpenoid and triterpenoid biosynthesis
+dha00910,nitrogen metabolism
+dha00920,sulfur metabolism
+dha00970,aminoacyl-tRNA biosynthesis
+dha01040,biosynthesis of unsaturated fatty acids
+dha01100,metabolic pathways
+dha01110,biosynthesis of secondary metabolites
+dha01200,carbon metabolism
+dha01210,2-Oxocarboxylic acid metabolism
+dha01212,fatty acid metabolism
+dha01230,biosynthesis of amino acids
+dha01501,beta-Lactam resistance
+dha02010,ABC transporters
+dha03008,ribosome biogenesis in eukaryotes
+dha03010,ribosome
+dha03013,RNA transport
+dha03015,mRNA surveillance pathway
+dha03018,RNA degradation
+dha03020,RNA polymerase
+dha03022,basal transcription factors
+dha03030,DNA replication
+dha03040,spliceosome
+dha03050,proteasome
+dha03060,protein export
+dha03410,base excision repair
+dha03420,nucleotide excision repair
+dha03430,mismatch repair
+dha03440,homologous recombination
+dha03450,non-homologous end-joining
+dha04011,MAPK signaling pathway - yeast
+dha04070,phosphatidylinositol signaling system
+dha04111,cell cycle - yeast
+dha04113,meiosis - yeast
+dha04120,ubiquitin mediated proteolysis
+dha04122,sulfur relay system
+dha04130,SNARE interactions in vesicular transport
+dha04136,autophagy - other
+dha04138,autophagy -yeast
+dha04139,mitophagy - yeast
+dha04141,protein processing in endoplasmic reticulum
+dha04144,endocytosis
+dha04145,phagosome
+dha04146,peroxisome
+dha04213,longevity regulating pathway - multiple species
+dha04392,hippo signaling pathway - multiple species

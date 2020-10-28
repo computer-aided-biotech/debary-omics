@@ -1,0 +1,166 @@
+id,name
+dhaM00001,"Central carbohydrate metabolism - Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+dhaM00002,"Central carbohydrate metabolism - Glycolysis, core module involving three-carbon compounds"
+dhaM00003,"Central carbohydrate metabolism - Gluconeogenesis, oxaloacetate => fructose-6P"
+dhaM00004,Central carbohydrate metabolism - Pentose phosphate pathway (Pentose phosphate cycle)
+dhaM00005,"Central carbohydrate metabolism - PRPP biosynthesis, ribose 5P => PRPP"
+dhaM00006,"Central carbohydrate metabolism - Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"
+dhaM00007,"Central carbohydrate metabolism - Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"
+dhaM00008,"Central carbohydrate metabolism - Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate"
+dhaM00009,"Central carbohydrate metabolism - citrate cycle (TCA cycle, Krebs cycle)"
+dhaM00010,"Central carbohydrate metabolism - citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+dhaM00011,"Central carbohydrate metabolism - citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+dhaM00012,Other carbohydrate metabolism - glyoxylate cycle
+dhaM00013,"Other carbohydrate metabolism - Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"
+dhaM00014,Other carbohydrate metabolism - Glucuronate pathway (uronate pathway)
+dhaM00015,"Amino acid metabolism - arginine and proline metabolism - Proline biosynthesis, glutamate => proline"
+dhaM00016,"Amino acid metabolism - lysine metabolism - lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine"
+dhaM00017,"Amino acid metabolism - cysteine and methionine metabolism - Methionine biosynthesis, apartate => homoserine => methionine"
+dhaM00018,"Amino acid metabolism - serine and threonine metabolism - Threonine biosynthesis, aspartate => homoserine => threonine"
+dhaM00019,"Amino acid metabolism - branched-chain amino acid metabolism - Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"
+dhaM00020,"Amino acid metabolism - serine and threonine metabolism - Serine biosynthesis, glycerate-3P => serine"
+dhaM00021,"Amino acid metabolism - cysteine and methionine metabolism - Cysteine biosynthesis, serine => cysteine"
+dhaM00022,"Amino acid metabolism - aromatic amino acid metabolism - Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate"
+dhaM00023,"Amino acid metabolism - aromatic amino acid metabolism - Tryptophan biosynthesis, chorismate => tryptophan"
+dhaM00024,"Amino acid metabolism - aromatic amino acid metabolism - Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine"
+dhaM00025,"Amino acid metabolism - aromatic amino acid metabolism - Tyrosine biosynthesis, chorismate => HPP => tyrosine"
+dhaM00026,"Amino acid metabolism - histidine metabolism - Histidine biosynthesis, PRPP => histidine"
+dhaM00027,Other amino acid metabolism - GABA (gamma-Aminobutyrate) shunt
+dhaM00028,"Amino acid metabolism - arginine and proline metabolism - Ornithine biosynthesis, glutamate => ornithine"
+dhaM00029,Amino acid metabolism - arginine and proline metabolism - urea cycle
+dhaM00030,"Amino acid metabolism - lysine metabolism - lysine biosynthesis, Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine"
+dhaM00032,"Amino acid metabolism - lysine metabolism - lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+dhaM00033,"Amino acid metabolism - serine and threonine metabolism - Ectoine biosynthesis, aspartate => ectoine"
+dhaM00034,Amino acid metabolism - cysteine and methionine metabolism - methionine salvage pathway
+dhaM00035,Amino acid metabolism - cysteine and methionine metabolism - Methionine degradation
+dhaM00036,"Amino acid metabolism - branched-chain amino acid metabolism - leucine degradation, leucine => acetoacetate + acetyl-CoA"
+dhaM00038,"Amino acid metabolism - aromatic amino acid metabolism - Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+dhaM00040,"Amino acid metabolism - aromatic amino acid metabolism - Tyrosine biosynthesis, chorismate => arogenate => tyrosine"
+dhaM00044,"Amino acid metabolism - aromatic amino acid metabolism - Tyrosine degradation, tyrosine => homogentisate"
+dhaM00048,"Nucleotide metabolism - purine metabolism - Inosine monophosphate biosynthesis, PRPP + glutamine => IMP"
+dhaM00049,"Nucleotide metabolism - purine metabolism - Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+dhaM00050,"Nucleotide metabolism - purine metabolism - Guanine ribonucleotide biosynthesis IMP => GDP,GTP"
+dhaM00051,"Nucleotide metabolism - pyrimidine metabolism - Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP"
+dhaM00052,"Nucleotide metabolism - pyrimidine metabolism - Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+dhaM00053,"Nucleotide metabolism - pyrimidine metabolism - Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP"
+dhaM00055,Glycan metabolism - glycan biosynthesis - N-glycan precursor biosynthesis
+dhaM00065,"Glycan metabolism - glycan biosynthesis - GPI-anchor biosynthesis, core oligosaccharide"
+dhaM00066,Lipid metabolism - Lactosylceramide biosynthesis
+dhaM00072,Glycan metabolism - glycan biosynthesis - N-glycosylation by oligosaccharyltransferase
+dhaM00073,Glycan metabolism - glycan biosynthesis - N-glycan precursor trimming
+dhaM00074,"Glycan metabolism - glycan biosynthesis - N-glycan biosynthesis, high-mannose type"
+dhaM00079,Glycan metabolism - Glycosaminoglycan metabolism - Keratan sulfate degradation
+dhaM00082,"Lipid metabolism - fatty acid metabolism - Fatty acid biosynthesis, initiation"
+dhaM00083,"Lipid metabolism - fatty acid metabolism - Fatty acid biosynthesis, elongation"
+dhaM00085,Lipid metabolism - fatty acid metabolism - Fatty acid elongation in mitochondria
+dhaM00086,"Lipid metabolism - fatty acid metabolism - beta-Oxidation, acyl-CoA synthesis"
+dhaM00087,Lipid metabolism - fatty acid metabolism - beta-Oxidation
+dhaM00088,"Lipid metabolism - Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+dhaM00089,Lipid metabolism - Triacylglycerol biosynthesis
+dhaM00090,"Lipid metabolism - Phosphatidylcholine (PC) biosynthesis, choline => PC"
+dhaM00091,"Lipid metabolism - Phosphatidylcholine (PC) biosynthesis, PE => PC"
+dhaM00092,"Lipid metabolism - Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"
+dhaM00093,"Lipid metabolism - Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"
+dhaM00094,Lipid metabolism - Ceramide biosynthesis
+dhaM00095,"Biosynthesis of terpenoids and polyketides - Terpenoid backbone biosynthesis - C5 isoprenoid biosynthesis, mevalonate pathway"
+dhaM00096,"Biosynthesis of terpenoids and polyketides - Terpenoid backbone biosynthesis - C5 isoprenoid biosynthesis, non-mevalonate pathway"
+dhaM00098,Lipid metabolism - Acylglycerol degradation
+dhaM00099,Lipid metabolism - Sphingosine biosynthesis
+dhaM00100,Lipid metabolism - Sphingosine degradation
+dhaM00101,"Lipid metabolism - sterol biosynthesis - Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol"
+dhaM00102,"Lipid metabolism - sterol biosynthesis - Ergocalciferol biosynthesis, squalene 2,3-epoxide => ergosterol/ergocalciferol"
+dhaM00113,Lipid metabolism - jasmonic acid biosynthesis
+dhaM00114,"Other carbohydrate metabolism - Ascorbate biosynthesis, plants, glucose-6P => ascorbate"
+dhaM00115,"Metabolism of cofactors and vitamins - NAD biosynthesis, aspartate => NAD"
+dhaM00117,"Metabolism of cofactors and vitamins - Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone"
+dhaM00118,"Other amino acid metabolism - Glutathione biosynthesis, glutamate => glutathione"
+dhaM00119,"Metabolism of cofactors and vitamins - Pantothenate biosynthesis, valine/L-aspartate => pantothenate"
+dhaM00120,"Metabolism of cofactors and vitamins - Coenzyme A biosynthesis, pantothenate => CoA"
+dhaM00121,"Metabolism of cofactors and vitamins - Heme biosynthesis, plants and bacteria, glutamate => heme"
+dhaM00123,"Metabolism of cofactors and vitamins - Biotin biosynthesis, pimeloyl-ACP/CoA => biotin"
+dhaM00124,"Metabolism of cofactors and vitamins - Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P"
+dhaM00125,"Metabolism of cofactors and vitamins - Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD"
+dhaM00126,"Metabolism of cofactors and vitamins - Tetrahydrofolate biosynthesis, GTP => THF"
+dhaM00128,"Metabolism of cofactors and vitamins - Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone"
+dhaM00129,"Other carbohydrate metabolism - Ascorbate biosynthesis, animals, glucose-1P => ascorbate"
+dhaM00130,"Other carbohydrate metabolism - Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+dhaM00131,"Other carbohydrate metabolism - Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"
+dhaM00132,"Other carbohydrate metabolism - Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"
+dhaM00133,"Amino acid metabolism - polyamine biosynthesis - Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"
+dhaM00134,"Amino acid metabolism - polyamine biosynthesis - Polyamine biosynthesis, arginine => ornithine => putrescine"
+dhaM00135,"Amino acid metabolism - polyamine biosynthesis - GABA biosynthesis, eukaryotes, putrescine => GABA"
+dhaM00140,"Metabolism of cofactors and vitamins - C1-unit interconversion, prokaryotes"
+dhaM00141,"Metabolism of cofactors and vitamins - C1-unit interconversion, eukaryotes"
+dhaM00143,"Energy metabolism - ATP synthesis - NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"
+dhaM00146,Energy metabolism - ATP synthesis - NADH dehydrogenase (ubiquinone) 1 alpha subcomplex
+dhaM00147,Energy metabolism - ATP synthesis - NADH dehydrogenase (ubiquinone) 1 beta subcomplex
+dhaM00148,Energy metabolism - ATP synthesis - Succinate dehydrogenase (ubiquinone)
+dhaM00151,Energy metabolism - ATP synthesis - Cytochrome bc1 complex respiratory unit
+dhaM00152,Energy metabolism - ATP synthesis - Cytochrome bc1 complex
+dhaM00154,Energy metabolism - ATP synthesis - Cytochrome c oxidase
+dhaM00158,"Energy metabolism - ATP synthesis - F-type ATPase, eukaryotes"
+dhaM00160,"Energy metabolism - ATP synthesis - V-type ATPase, eukaryotes"
+dhaM00165,Energy metabolism - carbon fixation - Reductive pentose phosphate cycle (Calvin cycle)
+dhaM00166,"Energy metabolism - carbon fixation - Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P"
+dhaM00167,"Energy metabolism - carbon fixation - Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P"
+dhaM00168,"Energy metabolism - carbon fixation - CAM (Crassulacean acid metabolism), dark"
+dhaM00170,"Energy metabolism - carbon fixation - C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"
+dhaM00171,"Energy metabolism - carbon fixation - C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+dhaM00173,Energy metabolism - carbon fixation - Reductive citrate cycle (Arnon-Buchanan cycle)
+dhaM00176,"Energy metabolism - sulfur metabolism - Assimilatory sulfate reduction, sulfate => H2S"
+dhaM00307,"Central carbohydrate metabolism - pyruvate oxidation,  pyruvate => acetyl-CoA"
+dhaM00308,"Central carbohydrate metabolism - Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"
+dhaM00338,"Amino acid metabolism - cysteine and methionine metabolism - Cysteine biosynthesis, homocysteine + serine => cysteine"
+dhaM00344,"Energy metabolism - methane metabolism - Formaldehyde assimilation, xylulose monophosphate pathway"
+dhaM00345,"Energy metabolism - methane metabolism - Formaldehyde assimilation, ribulose monophosphate pathway"
+dhaM00346,"Energy metabolism - methane metabolism - Formaldehyde assimilation, serine pathway"
+dhaM00357,"Energy metabolism - methane metabolism - Methanogenesis, acetate => methane"
+dhaM00368,"Amino acid metabolism - cysteine and methionine metabolism - Ethylene biosynthesis, methionine => ethylene"
+dhaM00373,Other carbohydrate metabolism - Ethylmalonyl pathway
+dhaM00374,Energy metabolism - carbon fixation - Dicarboxylate-hydroxybutyrate cycle
+dhaM00375,Energy metabolism - carbon fixation - Hydroxypropionate-hydroxybutylate cycle
+dhaM00376,Energy metabolism - carbon fixation - 3-Hydroxypropionate bi-cycle
+dhaM00377,Energy metabolism - carbon fixation - Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+dhaM00415,Lipid metabolism - fatty acid metabolism - Fatty acid elongation in endoplasmic reticulum
+dhaM00432,"Amino acid metabolism - branched-chain amino acid metabolism - Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate"
+dhaM00433,"Amino acid metabolism - lysine metabolism - Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate"
+dhaM00525,"Amino acid metabolism - lysine metabolism - Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine"
+dhaM00526,"Amino acid metabolism - lysine metabolism - Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine"
+dhaM00527,"Amino acid metabolism - lysine metabolism - Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine"
+dhaM00531,"Energy metabolism - nitrogen metabolism - Assimilatory nitrate reduction, nitrate => ammonia"
+dhaM00532,Other carbohydrate metabolism - photorespiration
+dhaM00535,"Amino acid metabolism - branched-chain amino acid metabolism - Isoleucine biosynthesis, pyruvate => 2-oxobutanoate"
+dhaM00546,"Nucleotide metabolism - purine metabolism - Purine degradation, xanthine => urea"
+dhaM00549,"Other carbohydrate metabolism - Nucleotide sugar biosynthesis, glucose => UDP-glucose"
+dhaM00552,"Other carbohydrate metabolism - D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"
+dhaM00554,"Other carbohydrate metabolism - Nucleotide sugar biosynthesis, galactose => UDP-galactose"
+dhaM00565,"Other carbohydrate metabolism - Trehalose biosynthesis, D-glucose 1P => trehalose"
+dhaM00568,"Xenobiotics biodegradation - aromatics degradation - Catechol ortho-cleavage, catechol => 3-oxoadipate"
+dhaM00570,"Amino acid metabolism - branched-chain amino acid metabolism - Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"
+dhaM00572,"Metabolism of cofactors and vitamins - Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP"
+dhaM00573,"Metabolism of cofactors and vitamins - Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin"
+dhaM00577,"Central carbohydrate metabolism - Pentose phosphate pathway, archaea, fructose 6P => ribose 5P"
+dhaM00580,"Energy metabolism - sulfur metabolism - Dissimilatory sulfate reduction, sulfate => H2S"
+dhaM00596,"Amino acid metabolism - cysteine and methionine metabolism - Cysteine biosynthesis, methionine => cysteine"
+dhaM00609,"Other carbohydrate metabolism - Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+dhaM00632,Biosynthesis of terpenoids and polyketides - Polyketide sugar unit biosynthesis - dTDP-L-rhamnose biosynthesis
+dhaM00740,Other carbohydrate metabolism - methylaspartate cycle
+dhaM00793,"Metabolism of cofactors and vitamins - Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF"
+dhaM00840,"Metabolism of cofactors and vitamins - Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+dhaM00841,"Metabolism of cofactors and vitamins - Tetrahydrobiopterin biosynthesis, GTP => BH4"
+dhaM00842,"Metabolism of cofactors and vitamins - L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+dhaM00843,"Metabolism of cofactors and vitamins - L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+dhaM00844,"Amino acid metabolism - arginine and proline metabolism - Arginine biosynthesis, ornithine => arginine"
+dhaM00845,"Amino acid metabolism - arginine and proline metabolism - Arginine biosynthesis, glutamate => acetylcitrulline => arginine"
+dhaM00846,"Metabolism of cofactors and vitamins - Siroheme biosynthesis, glutamate => siroheme"
+dhaM00849,"Biosynthesis of terpenoids and polyketides - Terpenoid backbone biosynthesis - C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+dhaM00854,"Other carbohydrate metabolism - Glycogen biosynthesis, glucose-1P => glycogen/starch"
+dhaM00855,"Other carbohydrate metabolism - Glycogen degradation, glycogen => glucose-6P"
+dhaM00861,"Lipid metabolism - fatty acid metabolism - beta-Oxidation, peroxisome, VLCFA"
+dhaM00868,"Metabolism of cofactors and vitamins - Heme biosynthesis, animals and fungi, glycine => heme"
+dhaM00872,"Glycan metabolism - glycan biosynthesis - O-glycan biosynthesis, mannose type (core M3)"
+dhaM00873,"Lipid metabolism - fatty acid metabolism - Fatty acid biosynthesis in mitochondria, animals"
+dhaM00874,"Lipid metabolism - fatty acid metabolism - Fatty acid biosynthesis in mitochondria, fungi"
+dhaM00892,"Other carbohydrate metabolism - UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"
+dhaM00910,"Amino acid metabolism - aromatic amino acid metabolism - Phenylalanine biosynthesis, chorismate => arogenate => phenylalanine"
+dhaM00917,"Lipid metabolism - sterol biosynthesis - Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"

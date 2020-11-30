@@ -39,3 +39,6 @@ code/.ipynb_checkpoints/
 # Binaries
 *.xls
 *.xlsx
+
+# pdf figures
+results/figures/*.pdf

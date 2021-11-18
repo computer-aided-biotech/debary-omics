@@ -1,6 +1,8 @@
 # debary-omics
 
-Analysis of omics data for Debaryomyces hansenii.
+Analysis of omics data for Debaryomyces hansenii. Code for generating most figures of the companion publication:
+
+[_Navarrete, C., Sánchez, B. J., Savickas, S., & Martínez, J. L. (2021). DebaryOmics: an integrative–omics study to understand the halophilic behaviour of Debaryomyces hansenii. Microbial Biotechnology._](https://doi.org/10.1111/1751-7915.13954)
 
 ## Requirements
 
